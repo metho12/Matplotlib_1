@@ -10,3 +10,4 @@ link of viz a data
 1- https://www.data-to-viz.com
 2- https://matplotlib.org/stable/plot_types/index
 
+
